@@ -1,0 +1,11 @@
+inputstr = input('numbers seprated by , :')
+nums = inputstr.split(",")
+nums = [float(i) for i in nums]
+print('original:')
+print(nums)
+nums.remove(max(nums))
+nums.remove(min(nums))
+print('removed min max:')
+print(nums)
+print('ave:')
+print(sum(nums) / float(len(nums)))
