@@ -1,9 +1,25 @@
-
+sumabc = []
 for a in range(1,50):
     for b in range(1,50):
         for c in range(1,50):
             if(a * b * c == 36):
-                print(a,b,c)
+                #print(a,b,c)
+                abc = [a,b,c]#.sort()
+                abc.sort()
+                #sumabc.append([a+b+c,(a,b,c)])
+                sumabc.append([a+b+c,abc])
+#print(sumabc)
+d = dict()
+for k,x in sumabc:
+    if(k in d):
+        if(x not in d[k]):
+            d[k].append(x)
+    else:
+        d[k] = [x]
+#print(d)
+for k in d.keys():
+    print(k,d[k])
+
 
 #import sys
 #def calcs(t):
