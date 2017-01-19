@@ -1,0 +1,19 @@
+最好能在sublime2里能跑通，最好能注明需要先安装哪些库、包
+目前已经装好下面这2个库，没问题
+import requests
+import urllib
+
+===============正式需求================
+1. 有n个页面地址，假设n一开始有50个，域名不固定，保存在1个数组变量中（这个数组可以被我修改）
+2. 我能保证每个页面都含有几张图片，且图片地址格式为http://abc.com/xxx/xxx/xxx/.jpg。x代表目录层级，有多少层是不固定的，但是域名是固定。每个页面只爬满足条件的第一张图。
+3. 将这些n张图片保存在c:盘pydown目录下，命名规则为a1.jpg~a50.jpg（如果数组改变长度就是到a+长度的命名为止）
+4. 将爬到的n个图片的原始地址，保存到1个txt文件中，分为50行(数组长度行)，且每行最后跟1个半角逗号。txt文件也存到pydown目录
+5. 每次重新执行程序的时候清空pydown目录
+
+
+['http://you.ctrip.com/sight/shunyi120473/137221.html','http://huodong.ctrip.com/activity/10226914.html','http://huodong.ctrip.com/activity/3226120.html','http://hotels.ctrip.com/hotel/484119.html']
+案例4个页面里面的dimg前缀的图片域名地址
+
+
+
+如果方便的话，最好能注释1下，保存到c盘pydown目录和程序执行所在目录下新开pydown目录有什么区别，谢谢
