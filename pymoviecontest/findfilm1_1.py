@@ -3,7 +3,10 @@
 import urllib2
 import re
 import os
-url=r'file:///C:/SDK/G/pyhomework/pymoviecontest/w/h.htm'
+curdir = os.getcwd()
+url = 'file:///' + os.path.join(curdir,u'www1\北京影讯,北京电影院-在线选座购票-购电影票.htm')
+#url=u'file:///C:\SDK\G\pyhomework\pymoviecontest\www1\北京影讯,北京电影院-在线选座购票-购电影票.htm'
+print url
 req = urllib2.Request(url, headers={'User-Agent' : "Mozilla/5.0"})
 webpage= urllib2.urlopen(req)
 strw=webpage.read()
