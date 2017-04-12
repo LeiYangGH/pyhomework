@@ -19,14 +19,7 @@ def read_bound(msg):
                 return upper_bound
         else:
             print("You must enter a number.")
-    #lower_bound = None
-    #while lower_bound is None:
-    #    line = input("Enter the lower bound: ")
-    #    if line.isnumeric():
-    #        lower_bound = int(line)
-    #        return lower_bound
-    #    else:
-    #        print("You must enter a positive number.")
+
 
    
 def is_perfect_square(num):
@@ -47,10 +40,11 @@ def print_squares(lower_bound, upper_bound, squares):
 
 def main():
     """Every home should have one"""
-    lower_bound = read_bound("Enter the lower bound: ")
-    upper_bound = read_bound("Enter the upper bound: ")
-    #lower_bound = 9
-    #upper_bound = 99
+    #lower_bound = read_bound("Enter the lower bound: ")
+    #upper_bound = read_bound("Enter the upper bound: ")
+#直接这样测试其他函数是否正确
+    lower_bound = 9
+    upper_bound = 99
     squares = []
     for num in range(lower_bound, upper_bound + 1):
         if is_perfect_square(num):

@@ -1,0 +1,5 @@
+Each line can easily be split into a list of 'raw' words using a basic str.split(). 
+Your function should then strip off the following characters from the start and end of each word, 
+'\n"-:\';,.'. You can use this string when you call the .strip method. 
+You don't need to strip any other characters from the start or end, ie, 
+only strip off the characters provided.
