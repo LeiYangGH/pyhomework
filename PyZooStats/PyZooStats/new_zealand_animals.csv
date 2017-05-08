@@ -1,0 +1,675 @@
+identifier,species,age,sex,zoo,notes
+1,Meerkat,11,Male,Auckland Zoo
+2,Cheetah,16,Male,Auckland Zoo
+3,Cheetah,16,Male,Auckland Zoo
+4,Chimpanzee,22,Female,Auckland Zoo
+5,Kiwi,29,Male,Auckland Zoo,Reduced appetite,Underdeveloped organs
+6,Elephant,2,Female,Orana Wildlife Park,Partial blindness
+7,Zebra,10,Female,Auckland Zoo,Special diet for bone strengthening
+8,Tiger,20,Female,Auckland Zoo,Favourite toy is blue ball
+9,Chimpanzee,59,Female,Auckland Zoo,Special diet for bone strengthening,Underdeveloped organs,Partial blindness,Strained leg muscle,Previous broken limb,Favourite toy is green barrel,Really enjoys sunshine,Favourite toy is red ball
+10,Elephant,10,Male,Auckland Zoo
+11,Red Panda,6,Female,Wellington Zoo,Partial blindness,Strained leg muscle,Favourite toy is red ball
+12,Llama,3,Male,Wellington Zoo,Aggressive behaviour - keep separated from other animals
+13,Penguin,13,Female,Orana Wildlife Park,Favourite toy is green barrel,Special diet for bone strengthening,Enjoys interacting with guests
+14,Chimpanzee,55,Male,Auckland Zoo
+15,Kiwi,17,Male,Wellington Zoo,Special diet for bone strengthening
+16,Penguin,17,Female,Wellington Zoo
+17,Lion,9,Male,Wellington Zoo
+18,Cheetah,8,Male,Wellington Zoo,Partial blindness,Strained leg muscle,Really enjoys peanut butter
+19,Meerkat,7,Female,Wellington Zoo,Partial blindness,Reduced appetite,Favourite toy is blue ball,Favourite toy is red ball
+20,Gazelle,3,Male,Wellington Zoo,Reduced appetite,Really enjoys peanut butter
+21,Penguin,0,Male,Orana Wildlife Park,Reduced appetite,Aggressive behaviour - keep separated from other animals,Underdeveloped organs,Enjoys interacting with guests,Favourite toy is green barrel,Really enjoys sunshine,Favourite toy is red ball
+22,Tiger,4,Female,Wellington Zoo
+23,Chimpanzee,31,Female,Auckland Zoo,Partial blindness,Aggressive behaviour - keep separated from other animals,Strained leg muscle
+24,Kiwi,12,Female,Orana Wildlife Park,Previous broken limb,Really enjoys sunshine
+25,Giraffe,0,Female,Orana Wildlife Park,Special diet for bone strengthening,Aggressive behaviour - keep separated from other animals,Really enjoys peanut butter,Enjoys interacting with guests,Previous broken limb,Really enjoys sunshine
+26,Elephant,31,Male,Orana Wildlife Park,Reduced appetite
+27,Giant Panda,19,Female,Wellington Zoo,Underdeveloped organs
+28,Chimpanzee,9,Male,Auckland Zoo
+29,Kiwi,13,Female,Wellington Zoo,Favourite toy is blue ball
+30,Tiger,7,Male,Orana Wildlife Park,Special diet for bone strengthening,Enjoys interacting with guests,Strained leg muscle,Favourite toy is red ball
+31,Kiwi,1,Female,Wellington Zoo,Aggressive behaviour - keep separated from other animals,Underdeveloped organs,Strained leg muscle
+32,Penguin,6,Male,Orana Wildlife Park,Favourite toy is green barrel,Strained leg muscle
+33,Chimpanzee,21,Female,Auckland Zoo,Underdeveloped organs
+34,Chimpanzee,40,Female,Auckland Zoo,Favourite toy is green barrel,Partial blindness,Really enjoys sunshine
+35,Chimpanzee,2,Female,Auckland Zoo,Really enjoys sunshine
+36,Meerkat,0,Female,Auckland Zoo,Aggressive behaviour - keep separated from other animals,Strained leg muscle,Favourite toy is red ball
+37,Penguin,8,Female,Wellington Zoo,Partial blindness,Enjoys interacting with guests
+38,Lion,9,Female,Wellington Zoo,Partial blindness,Strained leg muscle,Favourite toy is red ball
+39,Chimpanzee,58,Female,Auckland Zoo,Aggressive behaviour - keep separated from other animals,Strained leg muscle
+40,Giraffe,16,Female,Wellington Zoo,Favourite toy is blue ball
+41,Giraffe,4,Female,Auckland Zoo,Really enjoys sunshine
+42,Kiwi,22,Female,Orana Wildlife Park,Favourite toy is green barrel,Enjoys interacting with guests,Underdeveloped organs
+43,Red Panda,4,Male,Wellington Zoo,Special diet for bone strengthening,Enjoys interacting with guests
+44,Chimpanzee,15,Male,Auckland Zoo
+45,Elephant,23,Male,Orana Wildlife Park,Enjoys interacting with guests,Really enjoys sunshine,Strained leg muscle
+46,Chimpanzee,50,Male,Auckland Zoo,Underdeveloped organs
+47,Gazelle,7,Female,Wellington Zoo,Partial blindness,Enjoys interacting with guests,Really enjoys peanut butter
+48,Chimpanzee,46,Male,Auckland Zoo
+49,Chimpanzee,28,Female,Auckland Zoo,Reduced appetite,Really enjoys sunshine
+50,Penguin,7,Male,Wellington Zoo,Really enjoys sunshine,Favourite toy is blue ball,Underdeveloped organs
+51,Red Panda,13,Male,Wellington Zoo,Favourite toy is blue ball
+52,Penguin,16,Female,Wellington Zoo
+53,Zebra,4,Female,Auckland Zoo,Favourite toy is green barrel,Previous broken limb,Special diet for bone strengthening,Really enjoys peanut butter,Strained leg muscle
+54,Cheetah,9,Male,Orana Wildlife Park,Favourite toy is green barrel,Previous broken limb,Special diet for bone strengthening
+55,Giant Panda,2,Female,Wellington Zoo
+56,Zebra,11,Female,Auckland Zoo
+57,Meerkat,1,Female,Auckland Zoo,Reduced appetite,Aggressive behaviour - keep separated from other animals,Favourite toy is red ball
+58,Red Panda,12,Female,Wellington Zoo,Enjoys interacting with guests
+59,Gazelle,9,Female,Wellington Zoo,Partial blindness,Really enjoys sunshine,Really enjoys peanut butter
+60,Giraffe,19,Male,Orana Wildlife Park,Reduced appetite,Favourite toy is blue ball,Really enjoys peanut butter
+61,Lion,19,Male,Orana Wildlife Park,Underdeveloped organs,Favourite toy is red ball
+62,Meerkat,2,Male,Wellington Zoo,Special diet for bone strengthening,Previous broken limb,Favourite toy is blue ball
+63,Red Panda,1,Female,Wellington Zoo
+64,Giraffe,15,Male,Orana Wildlife Park,Really enjoys sunshine
+65,Penguin,6,Female,Orana Wildlife Park
+66,Penguin,9,Male,Orana Wildlife Park
+67,Meerkat,13,Female,Wellington Zoo
+68,Red Panda,13,Female,Auckland Zoo,Special diet for bone strengthening,Reduced appetite,Underdeveloped organs
+69,Kiwi,25,Female,Auckland Zoo,Reduced appetite,Really enjoys peanut butter,Favourite toy is red ball
+70,Cheetah,7,Female,Orana Wildlife Park,Favourite toy is red ball
+71,Red Panda,0,Female,Wellington Zoo,Underdeveloped organs,Really enjoys peanut butter,Enjoys interacting with guests,Favourite toy is green barrel,Really enjoys sunshine,Favourite toy is blue ball
+72,Zebra,30,Male,Orana Wildlife Park
+73,White Rhinoceros,45,Female,Orana Wildlife Park,Previous broken limb,Enjoys interacting with guests
+74,Red Panda,12,Female,Auckland Zoo,Partial blindness,Really enjoys peanut butter
+75,Llama,7,Male,Auckland Zoo
+76,Giraffe,12,Female,Wellington Zoo
+77,Lemur,10,Female,Auckland Zoo,Enjoys interacting with guests
+78,Giraffe,14,Male,Orana Wildlife Park,Reduced appetite,Enjoys interacting with guests
+79,Penguin,10,Female,Orana Wildlife Park,Enjoys interacting with guests,Aggressive behaviour - keep separated from other animals
+80,Meerkat,11,Male,Orana Wildlife Park
+81,Lion,16,Female,Auckland Zoo
+82,Penguin,17,Female,Orana Wildlife Park
+83,Lemur,1,Male,Auckland Zoo
+84,Llama,20,Female,Auckland Zoo,Special diet for bone strengthening,Reduced appetite,Really enjoys peanut butter
+85,Chimpanzee,43,Male,Auckland Zoo,Reduced appetite,Favourite toy is blue ball
+86,Lemur,13,Male,Auckland Zoo
+87,Lion,1,Male,Orana Wildlife Park,Favourite toy is blue ball,Partial blindness,Underdeveloped organs,Really enjoys sunshine,Favourite toy is red ball
+88,Elephant,25,Female,Auckland Zoo,Aggressive behaviour - keep separated from other animals,Really enjoys sunshine,Underdeveloped organs
+89,Chimpanzee,6,Female,Auckland Zoo,Favourite toy is green barrel,Favourite toy is red ball
+90,Red Panda,8,Male,Wellington Zoo
+91,Meerkat,3,Male,Auckland Zoo,Favourite toy is green barrel,Reduced appetite,Special diet for bone strengthening
+92,Chimpanzee,22,Male,Auckland Zoo,Enjoys interacting with guests,Aggressive behaviour - keep separated from other animals,Really enjoys sunshine,Favourite toy is blue ball,Strained leg muscle
+93,Penguin,17,Female,Orana Wildlife Park
+94,Giraffe,15,Female,Orana Wildlife Park,Previous broken limb,Partial blindness,Favourite toy is green barrel,Favourite toy is red ball
+95,Cheetah,11,Male,Orana Wildlife Park
+96,Chimpanzee,16,Female,Auckland Zoo
+97,Tiger,18,Male,Orana Wildlife Park,Favourite toy is green barrel
+98,Tiger,3,Female,Wellington Zoo,Favourite toy is green barrel,Favourite toy is red ball
+99,Red Panda,0,Male,Auckland Zoo,Reduced appetite,Underdeveloped organs,Really enjoys peanut butter,Strained leg muscle,Previous broken limb,Really enjoys sunshine,Favourite toy is blue ball,Favourite toy is red ball
+100,Zebra,22,Male,Auckland Zoo,Special diet for bone strengthening,Reduced appetite,Partial blindness,Enjoys interacting with guests,Strained leg muscle,Really enjoys sunshine
+101,Penguin,14,Male,Orana Wildlife Park
+102,Lion,10,Male,Orana Wildlife Park
+103,Elephant,5,Male,Wellington Zoo,Favourite toy is green barrel,Favourite toy is red ball
+104,Gazelle,4,Female,Wellington Zoo,Special diet for bone strengthening,Partial blindness,Really enjoys sunshine,Strained leg muscle,Underdeveloped organs
+105,Llama,19,Female,Auckland Zoo,Special diet for bone strengthening,Favourite toy is green barrel,Enjoys interacting with guests,Underdeveloped organs,Favourite toy is blue ball
+106,Chimpanzee,35,Male,Auckland Zoo,Underdeveloped organs
+107,Penguin,1,Male,Wellington Zoo,Enjoys interacting with guests,Strained leg muscle
+108,Red Panda,12,Male,Auckland Zoo,Favourite toy is red ball
+109,Kiwi,22,Male,Wellington Zoo,Previous broken limb,Partial blindness,Special diet for bone strengthening,Really enjoys peanut butter
+110,Giraffe,23,Female,Auckland Zoo,Reduced appetite,Underdeveloped organs,Really enjoys peanut butter,Strained leg muscle,Previous broken limb,Really enjoys sunshine,Favourite toy is blue ball,Favourite toy is red ball
+111,Red Panda,13,Male,Wellington Zoo
+112,Meerkat,1,Male,Wellington Zoo,Reduced appetite,Aggressive behaviour - keep separated from other animals,Really enjoys sunshine,Really enjoys peanut butter
+113,Chimpanzee,29,Female,Auckland Zoo
+114,Tiger,17,Female,Orana Wildlife Park,Underdeveloped organs
+115,Penguin,17,Female,Orana Wildlife Park,Favourite toy is green barrel,Really enjoys peanut butter
+116,Kiwi,15,Male,Orana Wildlife Park
+117,Cheetah,4,Female,Orana Wildlife Park
+118,Kiwi,9,Female,Orana Wildlife Park,Special diet for bone strengthening
+119,Red Panda,2,Male,Wellington Zoo
+120,Zebra,14,Male,Auckland Zoo,Special diet for bone strengthening,Aggressive behaviour - keep separated from other animals,Really enjoys sunshine
+121,Chimpanzee,17,Female,Auckland Zoo,Previous broken limb,Special diet for bone strengthening,Aggressive behaviour - keep separated from other animals,Enjoys interacting with guests
+122,Giant Panda,11,Male,Wellington Zoo,Reduced appetite
+123,Penguin,8,Male,Orana Wildlife Park,Previous broken limb,Enjoys interacting with guests
+124,Red Panda,8,Female,Auckland Zoo,Enjoys interacting with guests,Underdeveloped organs,Really enjoys peanut butter,Favourite toy is red ball
+125,Chimpanzee,44,Female,Auckland Zoo,Previous broken limb,Special diet for bone strengthening,Aggressive behaviour - keep separated from other animals,Favourite toy is blue ball
+126,Gazelle,2,Female,Wellington Zoo,Partial blindness
+127,Chimpanzee,9,Male,Auckland Zoo,Favourite toy is green barrel,Aggressive behaviour - keep separated from other animals,Underdeveloped organs,Favourite toy is blue ball
+128,Penguin,17,Male,Orana Wildlife Park,Enjoys interacting with guests,Favourite toy is blue ball
+129,Chimpanzee,50,Male,Auckland Zoo,Previous broken limb,Reduced appetite,Really enjoys sunshine
+130,Cheetah,11,Female,Auckland Zoo
+131,Lion,11,Male,Orana Wildlife Park
+132,Tiger,6,Male,Orana Wildlife Park,Reduced appetite,Underdeveloped organs,Really enjoys peanut butter,Partial blindness,Enjoys interacting with guests,Strained leg muscle,Favourite toy is green barrel,Favourite toy is blue ball,Favourite toy is red ball
+133,Giraffe,20,Female,Auckland Zoo,Really enjoys peanut butter
+134,Kiwi,14,Female,Auckland Zoo,Partial blindness,Aggressive behaviour - keep separated from other animals,Really enjoys peanut butter
+135,Giraffe,16,Female,Auckland Zoo,Reduced appetite,Partial blindness,Favourite toy is red ball
+136,Kiwi,15,Female,Orana Wildlife Park,Strained leg muscle
+137,Meerkat,1,Female,Auckland Zoo
+138,Meerkat,2,Female,Auckland Zoo,Special diet for bone strengthening
+139,Penguin,0,Female,Wellington Zoo,Favourite toy is green barrel,Favourite toy is red ball
+140,Zebra,14,Female,Auckland Zoo
+141,Giraffe,21,Male,Orana Wildlife Park,Underdeveloped organs
+142,Giraffe,19,Male,Auckland Zoo,Favourite toy is green barrel
+143,Gorilla,18,Female,Orana Wildlife Park,Aggressive behaviour - keep separated from other animals,Underdeveloped organs,Partial blindness,Enjoys interacting with guests,Strained leg muscle,Previous broken limb,Really enjoys sunshine,Favourite toy is red ball
+144,Penguin,14,Female,Orana Wildlife Park,Favourite toy is green barrel,Special diet for bone strengthening
+145,Chimpanzee,32,Male,Auckland Zoo,Previous broken limb,Special diet for bone strengthening,Aggressive behaviour - keep separated from other animals
+146,Lemur,5,Male,Wellington Zoo,Special diet for bone strengthening,Really enjoys peanut butter
+147,Penguin,0,Male,Wellington Zoo,Favourite toy is green barrel,Partial blindness,Previous broken limb,Enjoys interacting with guests
+148,Chimpanzee,56,Female,Auckland Zoo,Favourite toy is green barrel,Favourite toy is red ball
+149,Meerkat,11,Female,Auckland Zoo
+150,Llama,18,Female,Wellington Zoo
+151,Zebra,2,Male,Auckland Zoo,Enjoys interacting with guests
+152,Tuatara,44,Female,Wellington Zoo,Previous broken limb,Enjoys interacting with guests,Underdeveloped organs,Really enjoys sunshine
+153,Gazelle,0,Male,Wellington Zoo,Strained leg muscle
+154,Llama,5,Male,Auckland Zoo
+155,Penguin,9,Female,Orana Wildlife Park,Special diet for bone strengthening
+156,Zebra,3,Male,Orana Wildlife Park,Reduced appetite,Aggressive behaviour - keep separated from other animals
+157,Cheetah,7,Female,Auckland Zoo,Previous broken limb
+158,Zebra,19,Male,Orana Wildlife Park
+159,Chimpanzee,32,Female,Auckland Zoo,Favourite toy is green barrel,Favourite toy is blue ball,Really enjoys peanut butter
+160,Chimpanzee,35,Male,Auckland Zoo,Favourite toy is red ball
+161,Cheetah,15,Male,Wellington Zoo,Reduced appetite,Aggressive behaviour - keep separated from other animals,Really enjoys peanut butter,Strained leg muscle,Favourite toy is blue ball,Favourite toy is red ball
+162,Chimpanzee,22,Female,Auckland Zoo,Really enjoys peanut butter
+163,Llama,6,Female,Wellington Zoo,Favourite toy is green barrel,Previous broken limb
+164,Penguin,3,Female,Orana Wildlife Park,Special diet for bone strengthening,Reduced appetite,Aggressive behaviour - keep separated from other animals,Really enjoys peanut butter,Enjoys interacting with guests,Strained leg muscle,Previous broken limb,Favourite toy is green barrel,Favourite toy is blue ball
+165,Chimpanzee,24,Male,Auckland Zoo,Partial blindness,Underdeveloped organs
+166,Giraffe,2,Male,Auckland Zoo,Reduced appetite,Really enjoys sunshine
+167,Meerkat,6,Female,Orana Wildlife Park,Underdeveloped organs
+168,Penguin,13,Male,Orana Wildlife Park,Enjoys interacting with guests
+169,Lion,12,Female,Auckland Zoo,Previous broken limb,Partial blindness,Enjoys interacting with guests,Aggressive behaviour - keep separated from other animals,Favourite toy is red ball
+170,Red Panda,7,Female,Wellington Zoo,Previous broken limb,Strained leg muscle
+171,Tiger,6,Female,Auckland Zoo
+172,Penguin,13,Female,Wellington Zoo
+173,Penguin,11,Male,Wellington Zoo,Previous broken limb,Partial blindness,Strained leg muscle,Favourite toy is blue ball
+174,Red Panda,2,Female,Auckland Zoo
+175,Penguin,7,Male,Orana Wildlife Park
+176,Cheetah,2,Male,Auckland Zoo
+177,Penguin,13,Male,Orana Wildlife Park
+178,Kiwi,6,Male,Wellington Zoo,Favourite toy is red ball
+179,Chimpanzee,5,Male,Auckland Zoo,Special diet for bone strengthening,Favourite toy is green barrel,Really enjoys peanut butter,Favourite toy is red ball
+180,Chimpanzee,41,Female,Auckland Zoo,Previous broken limb,Underdeveloped organs
+181,Giraffe,8,Male,Auckland Zoo
+182,Kiwi,28,Female,Wellington Zoo,Really enjoys sunshine
+183,Chimpanzee,1,Male,Auckland Zoo,Favourite toy is green barrel
+184,Penguin,9,Female,Wellington Zoo,Previous broken limb,Aggressive behaviour - keep separated from other animals
+185,Kiwi,20,Male,Auckland Zoo
+186,Cheetah,7,Male,Orana Wildlife Park,Favourite toy is red ball
+187,Lemur,4,Male,Orana Wildlife Park,Aggressive behaviour - keep separated from other animals,Partial blindness,Enjoys interacting with guests,Strained leg muscle,Previous broken limb,Favourite toy is blue ball
+188,Kiwi,11,Male,Auckland Zoo,Strained leg muscle
+189,Zebra,28,Female,Orana Wildlife Park,Enjoys interacting with guests
+190,Chimpanzee,34,Male,Auckland Zoo,Special diet for bone strengthening,Previous broken limb,Enjoys interacting with guests,Really enjoys peanut butter,Favourite toy is red ball
+191,Chimpanzee,24,Female,Auckland Zoo
+192,Elephant,41,Male,Orana Wildlife Park,Favourite toy is green barrel
+193,Lemur,1,Male,Auckland Zoo,Favourite toy is green barrel,Special diet for bone strengthening,Enjoys interacting with guests,Underdeveloped organs,Favourite toy is red ball
+194,Zebra,3,Female,Auckland Zoo,Previous broken limb,Partial blindness
+195,Giraffe,22,Male,Orana Wildlife Park,Reduced appetite,Enjoys interacting with guests
+196,Kiwi,17,Female,Auckland Zoo
+197,Zebra,9,Male,Auckland Zoo,Special diet for bone strengthening,Underdeveloped organs,Enjoys interacting with guests,Favourite toy is green barrel,Favourite toy is blue ball,Favourite toy is red ball
+198,Red Panda,6,Male,Auckland Zoo,Favourite toy is blue ball
+199,Giraffe,8,Male,Orana Wildlife Park,Strained leg muscle,Underdeveloped organs,Really enjoys peanut butter,Favourite toy is red ball
+200,Elephant,22,Male,Auckland Zoo,Favourite toy is green barrel,Favourite toy is blue ball
+201,Chimpanzee,28,Female,Auckland Zoo
+202,Penguin,0,Male,Orana Wildlife Park,Partial blindness
+203,Kiwi,9,Male,Wellington Zoo,Favourite toy is green barrel,Partial blindness,Underdeveloped organs,Really enjoys sunshine
+204,Chimpanzee,25,Female,Auckland Zoo,Favourite toy is green barrel,Reduced appetite,Previous broken limb,Enjoys interacting with guests,Underdeveloped organs
+205,Chimpanzee,20,Male,Auckland Zoo,Really enjoys sunshine
+206,Red Panda,7,Female,Auckland Zoo
+207,Zebra,19,Female,Auckland Zoo,Enjoys interacting with guests,Aggressive behaviour - keep separated from other animals,Favourite toy is red ball
+208,Meerkat,8,Female,Orana Wildlife Park
+209,White Rhinoceros,20,Male,Orana Wildlife Park,Favourite toy is blue ball
+210,Zebra,30,Male,Auckland Zoo,Previous broken limb
+211,Giraffe,11,Male,Orana Wildlife Park,Special diet for bone strengthening,Enjoys interacting with guests
+212,Llama,15,Male,Wellington Zoo,Special diet for bone strengthening,Aggressive behaviour - keep separated from other animals,Underdeveloped organs,Enjoys interacting with guests,Strained leg muscle,Previous broken limb,Favourite toy is blue ball
+213,Meerkat,8,Male,Wellington Zoo,Previous broken limb,Enjoys interacting with guests,Really enjoys peanut butter
+214,Penguin,11,Male,Wellington Zoo,Previous broken limb,Strained leg muscle,Really enjoys peanut butter,Favourite toy is red ball
+215,Kiwi,18,Female,Orana Wildlife Park,Special diet for bone strengthening,Reduced appetite,Aggressive behaviour - keep separated from other animals,Really enjoys peanut butter,Partial blindness,Enjoys interacting with guests,Previous broken limb,Favourite toy is green barrel,Really enjoys sunshine,Favourite toy is blue ball
+216,Giraffe,16,Male,Orana Wildlife Park,Really enjoys sunshine,Really enjoys peanut butter,Favourite toy is blue ball
+217,Zebra,9,Female,Orana Wildlife Park
+218,Zebra,38,Male,Auckland Zoo,Favourite toy is blue ball
+219,Lemur,8,Male,Auckland Zoo,Favourite toy is green barrel,Strained leg muscle,Really enjoys peanut butter
+220,Kiwi,1,Female,Wellington Zoo,Previous broken limb,Enjoys interacting with guests,Really enjoys sunshine
+221,Lemur,10,Female,Wellington Zoo,Really enjoys peanut butter,Reduced appetite,Underdeveloped organs,Favourite toy is blue ball,Favourite toy is red ball
+222,Giraffe,1,Male,Auckland Zoo,Reduced appetite,Really enjoys peanut butter,Enjoys interacting with guests,Strained leg muscle,Previous broken limb,Favourite toy is green barrel,Favourite toy is blue ball,Favourite toy is red ball
+223,Penguin,2,Female,Orana Wildlife Park,Underdeveloped organs,Strained leg muscle
+224,Meerkat,7,Male,Wellington Zoo,Special diet for bone strengthening,Aggressive behaviour - keep separated from other animals,Underdeveloped organs,Really enjoys peanut butter,Partial blindness,Enjoys interacting with guests,Favourite toy is blue ball
+225,Red Panda,10,Male,Auckland Zoo,Special diet for bone strengthening,Reduced appetite,Aggressive behaviour - keep separated from other animals,Really enjoys peanut butter,Enjoys interacting with guests,Really enjoys sunshine,Favourite toy is blue ball
+226,Chimpanzee,42,Male,Auckland Zoo,Favourite toy is blue ball
+227,Red Panda,6,Female,Auckland Zoo,Special diet for bone strengthening,Reduced appetite,Enjoys interacting with guests,Favourite toy is red ball
+228,Giant Panda,4,Female,Orana Wildlife Park,Strained leg muscle,Favourite toy is blue ball
+229,Chimpanzee,31,Male,Auckland Zoo,Strained leg muscle
+230,Lion,14,Male,Auckland Zoo,Previous broken limb
+231,Red Panda,3,Male,Auckland Zoo,Strained leg muscle
+232,Giraffe,1,Female,Orana Wildlife Park,Really enjoys sunshine,Favourite toy is blue ball,Really enjoys peanut butter
+233,Penguin,9,Female,Wellington Zoo,Special diet for bone strengthening,Previous broken limb,Really enjoys sunshine
+234,Meerkat,10,Male,Orana Wildlife Park,Really enjoys sunshine
+235,Chimpanzee,45,Female,Auckland Zoo,Favourite toy is blue ball
+236,Gazelle,4,Male,Wellington Zoo,Underdeveloped organs
+237,Gorilla,18,Male,Orana Wildlife Park
+238,Kiwi,18,Female,Auckland Zoo,Really enjoys peanut butter,Favourite toy is red ball
+239,Kiwi,16,Female,Orana Wildlife Park,Favourite toy is blue ball,Strained leg muscle
+240,Kiwi,15,Female,Orana Wildlife Park,Partial blindness
+241,Penguin,7,Female,Wellington Zoo
+242,Penguin,11,Male,Orana Wildlife Park,Partial blindness,Favourite toy is blue ball,Favourite toy is red ball
+243,Lemur,3,Female,Auckland Zoo
+244,Red Panda,7,Male,Auckland Zoo
+245,Cheetah,16,Male,Wellington Zoo,Aggressive behaviour - keep separated from other animals,Favourite toy is red ball
+246,Kiwi,29,Male,Auckland Zoo,Special diet for bone strengthening,Aggressive behaviour - keep separated from other animals
+247,Chimpanzee,3,Female,Auckland Zoo,Partial blindness
+248,Gazelle,7,Female,Wellington Zoo
+249,Penguin,1,Female,Orana Wildlife Park,Special diet for bone strengthening,Previous broken limb,Underdeveloped organs,Favourite toy is blue ball
+250,Penguin,11,Male,Orana Wildlife Park,Enjoys interacting with guests,Underdeveloped organs,Favourite toy is blue ball,Strained leg muscle
+251,Red Panda,11,Female,Auckland Zoo,Underdeveloped organs,Favourite toy is red ball
+252,Giraffe,15,Male,Wellington Zoo
+253,Meerkat,9,Female,Auckland Zoo,Strained leg muscle,Really enjoys sunshine,Favourite toy is blue ball,Underdeveloped organs
+254,Lion,3,Female,Wellington Zoo,Underdeveloped organs
+255,Elephant,18,Male,Orana Wildlife Park
+256,Zebra,33,Female,Auckland Zoo,Previous broken limb,Partial blindness,Aggressive behaviour - keep separated from other animals
+257,Penguin,5,Male,Orana Wildlife Park,Reduced appetite
+258,Zebra,14,Male,Orana Wildlife Park,Previous broken limb
+259,Giraffe,15,Female,Wellington Zoo
+260,Cheetah,12,Female,Auckland Zoo
+261,Chimpanzee,44,Male,Auckland Zoo,Strained leg muscle
+262,Red Panda,3,Female,Wellington Zoo,Favourite toy is green barrel,Partial blindness,Aggressive behaviour - keep separated from other animals
+263,Kiwi,21,Female,Orana Wildlife Park,Special diet for bone strengthening,Favourite toy is green barrel,Previous broken limb,Aggressive behaviour - keep separated from other animals
+264,Zebra,7,Female,Orana Wildlife Park
+265,Zebra,39,Female,Orana Wildlife Park
+266,Meerkat,0,Male,Orana Wildlife Park
+267,Penguin,16,Male,Orana Wildlife Park,Special diet for bone strengthening,Favourite toy is blue ball
+268,Penguin,4,Male,Orana Wildlife Park
+269,Elephant,40,Female,Wellington Zoo,Favourite toy is green barrel
+270,Penguin,12,Female,Orana Wildlife Park
+271,Zebra,20,Male,Orana Wildlife Park,Previous broken limb,Enjoys interacting with guests,Really enjoys sunshine
+272,Kiwi,16,Male,Auckland Zoo
+273,Meerkat,12,Male,Wellington Zoo,Aggressive behaviour - keep separated from other animals,Favourite toy is blue ball,Favourite toy is red ball
+274,Llama,22,Female,Auckland Zoo
+275,Cheetah,2,Female,Orana Wildlife Park,Previous broken limb,Strained leg muscle
+276,Lion,12,Female,Wellington Zoo,Previous broken limb,Favourite toy is blue ball
+277,Penguin,3,Male,Orana Wildlife Park,Reduced appetite,Aggressive behaviour - keep separated from other animals,Enjoys interacting with guests,Strained leg muscle,Previous broken limb,Favourite toy is red ball
+278,Chimpanzee,3,Male,Auckland Zoo
+279,Cheetah,12,Male,Auckland Zoo,Special diet for bone strengthening,Enjoys interacting with guests
+280,Penguin,16,Female,Orana Wildlife Park,Favourite toy is green barrel,Really enjoys peanut butter,Aggressive behaviour - keep separated from other animals,Strained leg muscle,Favourite toy is red ball
+281,Elephant,10,Female,Wellington Zoo,Favourite toy is green barrel,Previous broken limb,Enjoys interacting with guests,Underdeveloped organs,Strained leg muscle
+282,Penguin,8,Female,Orana Wildlife Park,Reduced appetite
+283,Giraffe,5,Female,Orana Wildlife Park
+284,Llama,25,Female,Wellington Zoo
+285,Cheetah,13,Female,Wellington Zoo,Previous broken limb
+286,Penguin,7,Female,Orana Wildlife Park,Special diet for bone strengthening,Really enjoys peanut butter
+287,Penguin,8,Female,Orana Wildlife Park
+288,Chimpanzee,58,Male,Auckland Zoo,Really enjoys sunshine
+289,Lemur,9,Male,Wellington Zoo,Really enjoys sunshine
+290,Kiwi,18,Female,Auckland Zoo,Favourite toy is blue ball,Really enjoys peanut butter
+291,White Rhinoceros,7,Female,Orana Wildlife Park,Reduced appetite,Enjoys interacting with guests,Really enjoys peanut butter
+292,Gazelle,8,Male,Wellington Zoo,Really enjoys sunshine
+293,Zebra,16,Female,Auckland Zoo,Special diet for bone strengthening,Reduced appetite,Really enjoys peanut butter,Favourite toy is red ball
+294,Cheetah,10,Female,Auckland Zoo,Previous broken limb,Favourite toy is red ball
+295,Zebra,31,Male,Orana Wildlife Park,Previous broken limb,Really enjoys peanut butter
+296,Chimpanzee,7,Male,Auckland Zoo,Underdeveloped organs,Really enjoys peanut butter
+297,Kiwi,17,Male,Auckland Zoo,Partial blindness
+298,Kiwi,23,Female,Wellington Zoo,Reduced appetite,Favourite toy is blue ball
+299,Llama,11,Female,Wellington Zoo
+300,Lion,9,Female,Auckland Zoo,Underdeveloped organs,Strained leg muscle
+301,Kiwi,28,Male,Wellington Zoo,Reduced appetite
+302,Chimpanzee,49,Female,Auckland Zoo
+303,Penguin,0,Female,Wellington Zoo,Underdeveloped organs,Really enjoys sunshine,Favourite toy is red ball
+304,Chimpanzee,40,Female,Auckland Zoo,Special diet for bone strengthening,Reduced appetite,Aggressive behaviour - keep separated from other animals,Underdeveloped organs,Really enjoys peanut butter,Partial blindness,Strained leg muscle,Favourite toy is green barrel,Really enjoys sunshine,Favourite toy is blue ball
+305,Kiwi,3,Male,Orana Wildlife Park,Enjoys interacting with guests,Aggressive behaviour - keep separated from other animals
+306,Gazelle,7,Female,Wellington Zoo
+307,Red Panda,10,Male,Auckland Zoo,Previous broken limb
+308,Penguin,14,Male,Wellington Zoo,Favourite toy is blue ball
+309,Cheetah,15,Female,Wellington Zoo
+310,Lion,20,Male,Orana Wildlife Park,Really enjoys sunshine,Favourite toy is red ball
+311,Penguin,17,Female,Wellington Zoo,Aggressive behaviour - keep separated from other animals
+312,Meerkat,3,Male,Orana Wildlife Park,Special diet for bone strengthening,Partial blindness,Really enjoys sunshine
+313,Penguin,0,Female,Orana Wildlife Park,Strained leg muscle,Really enjoys sunshine,Favourite toy is blue ball,Really enjoys peanut butter
+314,Giraffe,3,Male,Orana Wildlife Park
+315,Chimpanzee,57,Female,Auckland Zoo,Special diet for bone strengthening
+316,Kiwi,9,Male,Auckland Zoo,Special diet for bone strengthening,Aggressive behaviour - keep separated from other animals,Underdeveloped organs,Really enjoys peanut butter,Partial blindness,Really enjoys sunshine
+317,Lemur,6,Male,Wellington Zoo,Aggressive behaviour - keep separated from other animals,Really enjoys peanut butter,Strained leg muscle,Previous broken limb,Favourite toy is green barrel,Favourite toy is blue ball
+318,Kiwi,26,Female,Auckland Zoo,Previous broken limb,Underdeveloped organs
+319,Tiger,25,Female,Wellington Zoo
+320,Penguin,9,Female,Orana Wildlife Park,Favourite toy is green barrel,Partial blindness,Reduced appetite,Favourite toy is red ball
+321,Penguin,2,Female,Wellington Zoo
+322,Giant Panda,18,Male,Orana Wildlife Park,Reduced appetite,Partial blindness
+323,Elephant,39,Female,Wellington Zoo,Reduced appetite,Aggressive behaviour - keep separated from other animals,Underdeveloped organs,Really enjoys peanut butter,Really enjoys sunshine,Favourite toy is blue ball,Favourite toy is red ball
+324,Zebra,17,Male,Orana Wildlife Park,Special diet for bone strengthening,Favourite toy is blue ball
+325,Kiwi,14,Male,Auckland Zoo
+326,Penguin,9,Male,Orana Wildlife Park,Previous broken limb,Reduced appetite,Favourite toy is green barrel,Really enjoys peanut butter,Favourite toy is red ball
+327,Penguin,12,Female,Orana Wildlife Park
+328,Penguin,5,Male,Orana Wildlife Park
+329,Chimpanzee,38,Female,Auckland Zoo,Reduced appetite,Favourite toy is blue ball
+330,Zebra,5,Female,Orana Wildlife Park
+331,Lemur,15,Female,Orana Wildlife Park,Special diet for bone strengthening,Aggressive behaviour - keep separated from other animals,Underdeveloped organs,Really enjoys peanut butter,Previous broken limb,Favourite toy is green barrel,Really enjoys sunshine,Favourite toy is red ball
+332,Zebra,2,Female,Auckland Zoo,Previous broken limb,Aggressive behaviour - keep separated from other animals,Really enjoys sunshine,Underdeveloped organs,Favourite toy is red ball
+333,Giraffe,2,Female,Wellington Zoo,Previous broken limb,Strained leg muscle,Favourite toy is blue ball
+334,Giraffe,8,Male,Orana Wildlife Park
+335,Penguin,3,Male,Orana Wildlife Park,Previous broken limb,Favourite toy is green barrel,Special diet for bone strengthening,Strained leg muscle
+336,Tuatara,44,Male,Orana Wildlife Park
+337,Penguin,6,Male,Orana Wildlife Park,Previous broken limb,Really enjoys peanut butter
+338,Red Panda,3,Female,Auckland Zoo
+339,Giraffe,23,Female,Auckland Zoo
+340,Kiwi,17,Male,Wellington Zoo,Favourite toy is blue ball
+341,Meerkat,10,Male,Auckland Zoo
+342,Elephant,35,Male,Wellington Zoo,Strained leg muscle,Favourite toy is red ball,Favourite toy is blue ball,Really enjoys peanut butter
+343,Chimpanzee,27,Female,Auckland Zoo,Enjoys interacting with guests,Favourite toy is blue ball
+344,Penguin,6,Male,Orana Wildlife Park,Underdeveloped organs
+345,Lion,12,Male,Auckland Zoo,Previous broken limb,Aggressive behaviour - keep separated from other animals,Strained leg muscle
+346,Cheetah,2,Male,Orana Wildlife Park
+347,Penguin,6,Male,Orana Wildlife Park,Really enjoys sunshine,Favourite toy is red ball
+348,Penguin,2,Female,Orana Wildlife Park
+349,Meerkat,4,Female,Orana Wildlife Park
+350,Red Panda,2,Male,Auckland Zoo,Special diet for bone strengthening,Enjoys interacting with guests
+351,Penguin,2,Male,Wellington Zoo,Enjoys interacting with guests,Really enjoys sunshine
+352,Red Panda,12,Male,Auckland Zoo,Underdeveloped organs
+353,Penguin,3,Female,Wellington Zoo,Really enjoys sunshine,Underdeveloped organs,Favourite toy is red ball
+354,Penguin,7,Female,Orana Wildlife Park,Special diet for bone strengthening,Previous broken limb,Aggressive behaviour - keep separated from other animals,Strained leg muscle
+355,Red Panda,11,Male,Wellington Zoo
+356,Meerkat,12,Male,Wellington Zoo,Special diet for bone strengthening,Enjoys interacting with guests
+357,Zebra,20,Male,Auckland Zoo
+358,Zebra,31,Male,Orana Wildlife Park,Special diet for bone strengthening
+359,Giant Panda,4,Female,Orana Wildlife Park,Previous broken limb,Really enjoys peanut butter
+360,Kiwi,26,Female,Wellington Zoo,Special diet for bone strengthening,Partial blindness,Really enjoys peanut butter
+361,Zebra,35,Male,Auckland Zoo,Aggressive behaviour - keep separated from other animals,Strained leg muscle
+362,Red Panda,7,Male,Wellington Zoo,Previous broken limb,Partial blindness
+363,Penguin,8,Male,Orana Wildlife Park,Partial blindness
+364,Kiwi,0,Female,Auckland Zoo,Partial blindness,Strained leg muscle
+365,Giraffe,13,Female,Wellington Zoo,Really enjoys sunshine,Strained leg muscle
+366,Lemur,6,Female,Orana Wildlife Park,Reduced appetite
+367,Giraffe,18,Male,Wellington Zoo,Previous broken limb,Reduced appetite
+368,Penguin,1,Male,Wellington Zoo,Special diet for bone strengthening,Favourite toy is green barrel
+369,Meerkat,8,Male,Wellington Zoo,Favourite toy is green barrel,Underdeveloped organs,Strained leg muscle,Really enjoys peanut butter
+370,Red Panda,11,Female,Wellington Zoo,Reduced appetite,Aggressive behaviour - keep separated from other animals,Favourite toy is blue ball
+371,Penguin,17,Female,Wellington Zoo
+372,Kiwi,9,Female,Auckland Zoo,Really enjoys peanut butter
+373,Tuatara,7,Female,Auckland Zoo,Enjoys interacting with guests,Underdeveloped organs
+374,Cheetah,10,Female,Wellington Zoo
+375,Cheetah,4,Female,Orana Wildlife Park
+376,Meerkat,0,Male,Orana Wildlife Park,Previous broken limb,Favourite toy is green barrel,Aggressive behaviour - keep separated from other animals
+377,Chimpanzee,23,Male,Auckland Zoo,Special diet for bone strengthening,Partial blindness,Reduced appetite,Enjoys interacting with guests,Underdeveloped organs
+378,Penguin,13,Male,Orana Wildlife Park,Aggressive behaviour - keep separated from other animals,Underdeveloped organs,Favourite toy is blue ball,Really enjoys peanut butter
+379,Lemur,15,Female,Orana Wildlife Park,Previous broken limb,Strained leg muscle
+380,Kiwi,25,Male,Auckland Zoo
+381,Penguin,10,Male,Orana Wildlife Park,Partial blindness
+382,Meerkat,7,Female,Auckland Zoo
+383,Zebra,30,Female,Auckland Zoo,Special diet for bone strengthening,Favourite toy is green barrel,Underdeveloped organs,Really enjoys peanut butter,Strained leg muscle
+384,Lion,2,Male,Orana Wildlife Park,Reduced appetite
+385,Kiwi,26,Female,Orana Wildlife Park,Special diet for bone strengthening,Underdeveloped organs,Strained leg muscle,Really enjoys peanut butter
+386,Llama,25,Female,Auckland Zoo,Favourite toy is red ball
+387,Penguin,6,Male,Orana Wildlife Park,Special diet for bone strengthening,Previous broken limb,Aggressive behaviour - keep separated from other animals,Strained leg muscle
+388,Llama,19,Female,Wellington Zoo,Reduced appetite,Enjoys interacting with guests
+389,Chimpanzee,53,Female,Auckland Zoo,Reduced appetite,Favourite toy is red ball
+390,Giraffe,17,Female,Auckland Zoo,Favourite toy is green barrel,Partial blindness
+391,Red Panda,1,Male,Wellington Zoo,Strained leg muscle
+392,Penguin,2,Female,Wellington Zoo
+393,Lion,4,Male,Wellington Zoo,Partial blindness,Aggressive behaviour - keep separated from other animals,Really enjoys peanut butter
+394,Penguin,7,Male,Wellington Zoo,Special diet for bone strengthening,Partial blindness,Strained leg muscle,Favourite toy is blue ball,Favourite toy is red ball
+395,Cheetah,8,Female,Auckland Zoo
+396,Kiwi,29,Female,Orana Wildlife Park
+397,Chimpanzee,20,Female,Auckland Zoo
+398,Zebra,5,Male,Auckland Zoo,Special diet for bone strengthening,Reduced appetite,Underdeveloped organs,Enjoys interacting with guests,Strained leg muscle,Favourite toy is green barrel
+399,Chimpanzee,40,Female,Auckland Zoo,Reduced appetite,Really enjoys sunshine,Strained leg muscle,Favourite toy is red ball
+400,Lemur,11,Male,Orana Wildlife Park
+401,Meerkat,6,Female,Auckland Zoo,Special diet for bone strengthening,Reduced appetite,Underdeveloped organs,Partial blindness,Strained leg muscle,Previous broken limb,Really enjoys sunshine,Favourite toy is red ball
+402,Penguin,5,Female,Wellington Zoo
+403,White Rhinoceros,20,Female,Orana Wildlife Park,Reduced appetite,Aggressive behaviour - keep separated from other animals,Underdeveloped organs,Enjoys interacting with guests,Previous broken limb,Favourite toy is red ball
+404,Chimpanzee,52,Female,Auckland Zoo,Special diet for bone strengthening,Reduced appetite,Aggressive behaviour - keep separated from other animals,Underdeveloped organs,Really enjoys peanut butter,Partial blindness,Favourite toy is green barrel,Really enjoys sunshine
+405,Zebra,34,Female,Auckland Zoo,Really enjoys peanut butter,Favourite toy is blue ball
+406,Penguin,11,Male,Wellington Zoo,Reduced appetite,Really enjoys sunshine
+407,Tiger,25,Male,Wellington Zoo,Partial blindness
+408,Lemur,13,Male,Auckland Zoo,Strained leg muscle,Favourite toy is red ball
+409,Penguin,16,Female,Wellington Zoo,Previous broken limb,Partial blindness,Aggressive behaviour - keep separated from other animals,Strained leg muscle
+410,Elephant,41,Female,Wellington Zoo
+411,Red Panda,7,Female,Auckland Zoo
+412,Chimpanzee,6,Female,Auckland Zoo,Partial blindness,Really enjoys peanut butter
+413,Gazelle,11,Female,Wellington Zoo
+414,Red Panda,3,Male,Wellington Zoo,Favourite toy is green barrel,Aggressive behaviour - keep separated from other animals,Underdeveloped organs
+415,Cheetah,13,Male,Auckland Zoo,Special diet for bone strengthening,Favourite toy is blue ball,Favourite toy is red ball
+416,Lemur,6,Female,Orana Wildlife Park
+417,Red Panda,0,Male,Auckland Zoo,Favourite toy is red ball
+418,Cheetah,8,Female,Wellington Zoo,Previous broken limb
+419,Zebra,16,Male,Orana Wildlife Park
+420,Penguin,13,Female,Orana Wildlife Park,Reduced appetite,Underdeveloped organs,Favourite toy is green barrel,Really enjoys sunshine,Favourite toy is blue ball,Favourite toy is red ball
+421,Elephant,8,Male,Orana Wildlife Park,Favourite toy is green barrel,Favourite toy is red ball
+422,Kiwi,18,Female,Wellington Zoo,Reduced appetite,Aggressive behaviour - keep separated from other animals,Underdeveloped organs,Partial blindness,Enjoys interacting with guests,Previous broken limb,Favourite toy is green barrel,Favourite toy is blue ball
+423,Elephant,29,Male,Auckland Zoo,Special diet for bone strengthening,Reduced appetite,Aggressive behaviour - keep separated from other animals,Partial blindness,Strained leg muscle,Favourite toy is red ball
+424,Giraffe,0,Female,Wellington Zoo,Special diet for bone strengthening,Favourite toy is green barrel,Really enjoys sunshine,Strained leg muscle,Favourite toy is red ball
+425,Meerkat,3,Female,Auckland Zoo,Special diet for bone strengthening,Favourite toy is blue ball
+426,Chimpanzee,15,Male,Auckland Zoo,Special diet for bone strengthening,Aggressive behaviour - keep separated from other animals
+427,Lemur,7,Male,Wellington Zoo,Really enjoys peanut butter
+428,Meerkat,9,Female,Orana Wildlife Park
+429,Kiwi,20,Male,Orana Wildlife Park,Favourite toy is green barrel,Partial blindness,Enjoys interacting with guests,Strained leg muscle,Really enjoys peanut butter
+430,Red Panda,9,Male,Wellington Zoo,Really enjoys peanut butter,Really enjoys sunshine,Underdeveloped organs,Favourite toy is red ball
+431,Penguin,12,Male,Orana Wildlife Park,Special diet for bone strengthening,Reduced appetite,Previous broken limb,Underdeveloped organs
+432,Zebra,36,Male,Auckland Zoo,Enjoys interacting with guests,Underdeveloped organs,Favourite toy is red ball
+433,Red Panda,5,Female,Auckland Zoo,Special diet for bone strengthening,Favourite toy is blue ball
+434,Kiwi,11,Male,Auckland Zoo,Favourite toy is blue ball
+435,Chimpanzee,44,Female,Auckland Zoo,Special diet for bone strengthening,Aggressive behaviour - keep separated from other animals,Underdeveloped organs
+436,Red Panda,2,Female,Auckland Zoo
+437,Chimpanzee,34,Male,Auckland Zoo,Favourite toy is red ball
+438,Red Panda,8,Male,Auckland Zoo,Really enjoys sunshine
+439,Chimpanzee,34,Male,Auckland Zoo,Partial blindness
+440,Meerkat,12,Female,Wellington Zoo,Really enjoys sunshine
+441,Lemur,9,Male,Wellington Zoo,Special diet for bone strengthening,Reduced appetite,Aggressive behaviour - keep separated from other animals,Underdeveloped organs,Really enjoys peanut butter,Strained leg muscle
+442,Penguin,8,Female,Orana Wildlife Park,Really enjoys sunshine
+443,Meerkat,12,Male,Wellington Zoo
+444,Penguin,13,Male,Wellington Zoo
+445,Llama,24,Male,Auckland Zoo
+446,Lemur,11,Female,Wellington Zoo
+447,Penguin,16,Female,Orana Wildlife Park,Favourite toy is blue ball
+448,Lemur,5,Male,Auckland Zoo,Underdeveloped organs
+449,Kiwi,14,Male,Orana Wildlife Park,Favourite toy is green barrel,Partial blindness,Underdeveloped organs,Favourite toy is blue ball,Favourite toy is red ball
+450,Giraffe,23,Female,Auckland Zoo,Favourite toy is green barrel,Enjoys interacting with guests,Favourite toy is red ball
+451,Penguin,5,Female,Orana Wildlife Park,Favourite toy is red ball
+452,Penguin,7,Female,Orana Wildlife Park,Favourite toy is red ball,Strained leg muscle,Favourite toy is blue ball
+453,Penguin,13,Male,Orana Wildlife Park,Reduced appetite,Aggressive behaviour - keep separated from other animals,Underdeveloped organs,Really enjoys peanut butter,Partial blindness,Enjoys interacting with guests,Strained leg muscle,Really enjoys sunshine
+454,Penguin,1,Female,Wellington Zoo
+455,Cheetah,4,Female,Orana Wildlife Park,Aggressive behaviour - keep separated from other animals
+456,Llama,16,Female,Wellington Zoo,Reduced appetite,Really enjoys sunshine,Really enjoys peanut butter
+457,Tiger,16,Male,Wellington Zoo,Really enjoys peanut butter,Underdeveloped organs,Favourite toy is blue ball,Strained leg muscle
+458,Kiwi,14,Female,Auckland Zoo,Underdeveloped organs
+459,Gazelle,10,Female,Wellington Zoo,Enjoys interacting with guests
+460,Chimpanzee,10,Female,Auckland Zoo,Favourite toy is red ball
+461,Chimpanzee,7,Male,Auckland Zoo
+462,Penguin,9,Male,Orana Wildlife Park,Really enjoys peanut butter
+463,Zebra,0,Male,Orana Wildlife Park,Favourite toy is green barrel,Partial blindness,Enjoys interacting with guests,Strained leg muscle,Favourite toy is blue ball
+464,Penguin,15,Male,Orana Wildlife Park,Previous broken limb,Partial blindness,Favourite toy is blue ball,Favourite toy is red ball
+465,Zebra,19,Female,Orana Wildlife Park,Favourite toy is blue ball,Favourite toy is red ball
+466,Penguin,11,Male,Orana Wildlife Park,Favourite toy is green barrel,Aggressive behaviour - keep separated from other animals,Favourite toy is blue ball,Favourite toy is red ball
+467,Zebra,12,Male,Orana Wildlife Park,Partial blindness,Enjoys interacting with guests
+468,Meerkat,13,Female,Wellington Zoo,Special diet for bone strengthening
+469,Chimpanzee,50,Female,Auckland Zoo,Reduced appetite,Enjoys interacting with guests,Underdeveloped organs
+470,Zebra,33,Male,Auckland Zoo,Special diet for bone strengthening
+471,Penguin,4,Male,Orana Wildlife Park,Previous broken limb,Enjoys interacting with guests,Underdeveloped organs
+472,Giant Panda,4,Female,Auckland Zoo,Special diet for bone strengthening
+473,Tiger,13,Female,Orana Wildlife Park
+474,Chimpanzee,54,Female,Auckland Zoo,Previous broken limb,Really enjoys peanut butter
+475,Giraffe,18,Male,Orana Wildlife Park,Previous broken limb,Favourite toy is blue ball,Favourite toy is red ball
+476,Zebra,24,Male,Auckland Zoo,Strained leg muscle
+477,Cheetah,11,Female,Orana Wildlife Park,Previous broken limb,Enjoys interacting with guests,Really enjoys sunshine
+478,Chimpanzee,35,Female,Auckland Zoo,Special diet for bone strengthening,Favourite toy is green barrel,Previous broken limb,Underdeveloped organs,Favourite toy is blue ball
+479,Giraffe,10,Female,Orana Wildlife Park,Underdeveloped organs
+480,Penguin,13,Male,Wellington Zoo,Favourite toy is green barrel,Really enjoys sunshine
+481,Elephant,41,Female,Wellington Zoo,Favourite toy is blue ball,Strained leg muscle
+482,Kiwi,11,Male,Wellington Zoo,Favourite toy is green barrel,Really enjoys peanut butter
+483,Elephant,4,Male,Wellington Zoo,Reduced appetite,Aggressive behaviour - keep separated from other animals,Favourite toy is blue ball
+484,Penguin,11,Female,Wellington Zoo
+485,Chimpanzee,23,Female,Auckland Zoo,Favourite toy is green barrel
+486,Penguin,3,Female,Orana Wildlife Park,Favourite toy is green barrel,Favourite toy is red ball
+487,Lion,4,Male,Auckland Zoo,Reduced appetite,Underdeveloped organs,Enjoys interacting with guests,Strained leg muscle,Favourite toy is green barrel,Really enjoys sunshine
+488,Elephant,40,Male,Orana Wildlife Park,Reduced appetite,Enjoys interacting with guests
+489,Tuatara,54,Male,Auckland Zoo,Favourite toy is green barrel
+490,Cheetah,9,Female,Orana Wildlife Park,Really enjoys peanut butter
+491,Emu,3,Female,Auckland Zoo,Previous broken limb,Reduced appetite,Special diet for bone strengthening
+492,Penguin,10,Female,Orana Wildlife Park,Special diet for bone strengthening,Previous broken limb,Enjoys interacting with guests,Favourite toy is blue ball
+493,Llama,20,Male,Wellington Zoo
+494,Kiwi,27,Female,Orana Wildlife Park,Special diet for bone strengthening
+495,Zebra,15,Female,Orana Wildlife Park,Strained leg muscle
+496,Red Panda,5,Male,Auckland Zoo,Special diet for bone strengthening
+497,Penguin,5,Male,Wellington Zoo
+498,Kiwi,5,Male,Orana Wildlife Park,Reduced appetite,Really enjoys peanut butter
+499,Zebra,29,Female,Auckland Zoo,Favourite toy is green barrel,Partial blindness,Aggressive behaviour - keep separated from other animals
+500,Giant Panda,1,Male,Wellington Zoo
+501,Red Panda,10,Female,Auckland Zoo,Really enjoys sunshine
+502,Red Panda,10,Male,Wellington Zoo
+503,Penguin,10,Female,Wellington Zoo
+504,Elephant,34,Female,Wellington Zoo,Really enjoys peanut butter,Favourite toy is blue ball
+505,Zebra,39,Male,Auckland Zoo,Reduced appetite
+506,Tiger,24,Female,Wellington Zoo,Partial blindness
+507,Red Panda,13,Female,Wellington Zoo,Aggressive behaviour - keep separated from other animals
+508,Chimpanzee,5,Female,Auckland Zoo,Strained leg muscle,Favourite toy is red ball
+509,Cheetah,9,Female,Orana Wildlife Park
+510,Gazelle,2,Male,Wellington Zoo,Special diet for bone strengthening
+511,Zebra,18,Female,Orana Wildlife Park
+512,Kiwi,26,Female,Wellington Zoo
+513,Chimpanzee,15,Female,Auckland Zoo,Reduced appetite,Favourite toy is blue ball
+514,Chimpanzee,11,Female,Auckland Zoo,Previous broken limb,Aggressive behaviour - keep separated from other animals,Really enjoys sunshine
+515,Tuatara,39,Female,Wellington Zoo
+516,Penguin,0,Female,Orana Wildlife Park
+517,Kiwi,12,Male,Orana Wildlife Park
+518,Chimpanzee,14,Male,Auckland Zoo
+519,Penguin,15,Female,Orana Wildlife Park
+520,Giraffe,6,Female,Auckland Zoo,Reduced appetite,Partial blindness,Enjoys interacting with guests,Strained leg muscle,Previous broken limb,Favourite toy is green barrel,Favourite toy is blue ball
+521,Cheetah,6,Female,Orana Wildlife Park
+522,Meerkat,3,Female,Auckland Zoo,Reduced appetite,Partial blindness
+523,Giraffe,6,Male,Auckland Zoo,Strained leg muscle,Favourite toy is blue ball
+524,Zebra,27,Male,Orana Wildlife Park,Reduced appetite
+525,Tiger,1,Female,Orana Wildlife Park
+526,Lion,14,Female,Auckland Zoo,Strained leg muscle,Favourite toy is red ball
+527,Kiwi,3,Male,Auckland Zoo
+528,Giant Panda,10,Male,Auckland Zoo
+529,Tuatara,38,Male,Orana Wildlife Park,Previous broken limb,Partial blindness,Favourite toy is blue ball
+530,Penguin,4,Male,Wellington Zoo,Previous broken limb,Favourite toy is green barrel,Aggressive behaviour - keep separated from other animals
+531,Emu,15,Female,Auckland Zoo,Special diet for bone strengthening,Previous broken limb
+532,Cheetah,11,Female,Wellington Zoo,Previous broken limb,Enjoys interacting with guests
+533,Zebra,23,Female,Auckland Zoo
+534,Cheetah,4,Male,Wellington Zoo
+535,Meerkat,0,Female,Auckland Zoo
+536,Giant Panda,9,Male,Orana Wildlife Park,Previous broken limb,Favourite toy is red ball
+537,Chimpanzee,57,Female,Auckland Zoo,Favourite toy is green barrel,Aggressive behaviour - keep separated from other animals
+538,Giraffe,16,Male,Auckland Zoo
+539,Emu,6,Male,Auckland Zoo
+540,Penguin,15,Female,Wellington Zoo,Strained leg muscle
+541,Chimpanzee,55,Male,Auckland Zoo,Reduced appetite,Favourite toy is red ball
+542,Tuatara,50,Female,Auckland Zoo,Favourite toy is blue ball,Favourite toy is red ball
+543,Chimpanzee,48,Male,Auckland Zoo,Enjoys interacting with guests,Really enjoys sunshine,Strained leg muscle
+544,Zebra,19,Female,Auckland Zoo,Reduced appetite,Enjoys interacting with guests
+545,Penguin,0,Female,Orana Wildlife Park,Special diet for bone strengthening,Really enjoys peanut butter
+546,Penguin,1,Female,Wellington Zoo,Favourite toy is green barrel,Partial blindness,Previous broken limb
+547,Penguin,13,Female,Wellington Zoo,Favourite toy is green barrel,Strained leg muscle
+548,Kiwi,24,Male,Orana Wildlife Park,Favourite toy is red ball
+549,Llama,19,Male,Auckland Zoo
+550,Meerkat,7,Male,Auckland Zoo,Previous broken limb
+551,Giant Panda,1,Male,Wellington Zoo,Previous broken limb
+552,Giant Panda,12,Male,Wellington Zoo,Reduced appetite,Partial blindness,Strained leg muscle,Favourite toy is green barrel,Really enjoys sunshine,Favourite toy is blue ball
+553,Kiwi,8,Male,Wellington Zoo,Favourite toy is blue ball,Favourite toy is red ball
+554,Red Panda,10,Male,Wellington Zoo
+555,Kiwi,10,Male,Wellington Zoo,Special diet for bone strengthening,Favourite toy is blue ball
+556,Giraffe,12,Male,Wellington Zoo
+557,Kiwi,12,Male,Auckland Zoo,Previous broken limb,Partial blindness,Enjoys interacting with guests
+558,Zebra,30,Female,Auckland Zoo,Previous broken limb,Favourite toy is blue ball,Favourite toy is red ball
+559,Meerkat,12,Female,Auckland Zoo,Reduced appetite,Partial blindness,Enjoys interacting with guests,Strained leg muscle,Favourite toy is green barrel,Really enjoys sunshine,Favourite toy is red ball
+560,Penguin,5,Male,Wellington Zoo,Favourite toy is green barrel,Enjoys interacting with guests,Favourite toy is red ball
+561,Red Panda,6,Male,Auckland Zoo,Favourite toy is green barrel,Aggressive behaviour - keep separated from other animals,Enjoys interacting with guests,Underdeveloped organs,Favourite toy is blue ball
+562,Penguin,5,Male,Wellington Zoo,Special diet for bone strengthening,Underdeveloped organs,Partial blindness,Enjoys interacting with guests,Strained leg muscle,Previous broken limb,Favourite toy is green barrel
+563,Zebra,28,Female,Orana Wildlife Park,Aggressive behaviour - keep separated from other animals
+564,Chimpanzee,24,Male,Auckland Zoo,Previous broken limb,Reduced appetite,Aggressive behaviour - keep separated from other animals,Really enjoys sunshine,Strained leg muscle
+565,Red Panda,12,Female,Wellington Zoo
+566,Penguin,11,Male,Orana Wildlife Park
+567,Tuatara,66,Male,Wellington Zoo,Underdeveloped organs
+568,Giraffe,16,Male,Auckland Zoo,Favourite toy is red ball
+569,Red Panda,1,Female,Wellington Zoo,Reduced appetite,Aggressive behaviour - keep separated from other animals,Really enjoys peanut butter,Favourite toy is blue ball
+570,Lion,1,Male,Orana Wildlife Park
+571,Chimpanzee,58,Female,Auckland Zoo,Underdeveloped organs
+572,Red Panda,4,Male,Wellington Zoo,Previous broken limb
+573,Tuatara,39,Male,Orana Wildlife Park,Previous broken limb,Partial blindness
+574,Chimpanzee,11,Male,Auckland Zoo
+575,Zebra,7,Male,Auckland Zoo,Reduced appetite,Aggressive behaviour - keep separated from other animals,Underdeveloped organs,Really enjoys peanut butter,Partial blindness,Strained leg muscle,Favourite toy is red ball
+576,Red Panda,8,Female,Auckland Zoo,Reduced appetite,Enjoys interacting with guests,Really enjoys sunshine,Really enjoys peanut butter
+577,Penguin,1,Male,Orana Wildlife Park,Special diet for bone strengthening
+578,Gorilla,24,Female,Orana Wildlife Park
+579,Tuatara,55,Female,Orana Wildlife Park
+580,Zebra,29,Female,Auckland Zoo,Underdeveloped organs
+581,Chimpanzee,47,Female,Auckland Zoo,Underdeveloped organs,Really enjoys peanut butter,Enjoys interacting with guests,Strained leg muscle,Previous broken limb,Really enjoys sunshine
+582,Lemur,9,Male,Wellington Zoo,Special diet for bone strengthening,Reduced appetite,Aggressive behaviour - keep separated from other animals,Underdeveloped organs,Enjoys interacting with guests,Strained leg muscle,Previous broken limb,Favourite toy is green barrel,Really enjoys sunshine
+583,Penguin,10,Female,Orana Wildlife Park
+584,Chimpanzee,38,Female,Auckland Zoo,Strained leg muscle
+585,Emu,14,Female,Auckland Zoo,Enjoys interacting with guests,Underdeveloped organs,Strained leg muscle,Favourite toy is red ball
+586,Gazelle,8,Male,Wellington Zoo,Strained leg muscle
+587,Kiwi,24,Male,Orana Wildlife Park
+588,Giant Panda,14,Female,Wellington Zoo,Enjoys interacting with guests,Favourite toy is red ball
+589,Meerkat,3,Male,Orana Wildlife Park,Aggressive behaviour - keep separated from other animals,Really enjoys peanut butter,Enjoys interacting with guests,Strained leg muscle,Really enjoys sunshine,Favourite toy is red ball
+590,Kiwi,7,Male,Auckland Zoo,Aggressive behaviour - keep separated from other animals,Underdeveloped organs
+591,Tuatara,65,Female,Auckland Zoo,Strained leg muscle
+592,Lemur,14,Female,Wellington Zoo
+593,Giant Panda,2,Male,Auckland Zoo,Enjoys interacting with guests,Really enjoys sunshine,Strained leg muscle
+594,Chimpanzee,20,Male,Auckland Zoo,Favourite toy is blue ball
+595,White Rhinoceros,2,Male,Orana Wildlife Park
+596,White Rhinoceros,20,Female,Orana Wildlife Park,Favourite toy is green barrel,Really enjoys peanut butter
+597,Red Panda,1,Male,Wellington Zoo,Special diet for bone strengthening
+598,Zebra,36,Female,Orana Wildlife Park,Special diet for bone strengthening,Favourite toy is green barrel,Really enjoys sunshine
+599,Giraffe,21,Female,Wellington Zoo
+600,Chimpanzee,42,Male,Auckland Zoo
+601,Penguin,4,Female,Wellington Zoo,Reduced appetite,Partial blindness,Enjoys interacting with guests,Really enjoys sunshine,Favourite toy is blue ball,Favourite toy is red ball
+602,Lion,14,Male,Wellington Zoo,Special diet for bone strengthening,Reduced appetite,Really enjoys peanut butter,Partial blindness,Enjoys interacting with guests,Favourite toy is green barrel,Really enjoys sunshine
+603,Kiwi,2,Female,Auckland Zoo,Favourite toy is green barrel,Partial blindness
+604,Tiger,20,Female,Auckland Zoo
+605,Chimpanzee,38,Female,Auckland Zoo,Favourite toy is green barrel,Really enjoys sunshine
+606,Elephant,28,Female,Auckland Zoo
+607,Giant Panda,14,Male,Auckland Zoo
+608,Meerkat,10,Female,Auckland Zoo
+609,Red Panda,7,Female,Wellington Zoo,Really enjoys sunshine
+610,Penguin,10,Male,Orana Wildlife Park,Underdeveloped organs,Favourite toy is red ball
+611,Kiwi,25,Female,Auckland Zoo,Really enjoys peanut butter
+612,Llama,7,Male,Auckland Zoo
+613,Penguin,9,Male,Orana Wildlife Park
+614,Penguin,13,Female,Wellington Zoo,Favourite toy is green barrel,Reduced appetite,Previous broken limb,Really enjoys peanut butter,Favourite toy is blue ball
+615,Giraffe,6,Female,Orana Wildlife Park
+616,Penguin,0,Male,Orana Wildlife Park,Aggressive behaviour - keep separated from other animals,Really enjoys sunshine,Favourite toy is red ball
+617,Kiwi,21,Female,Wellington Zoo,Special diet for bone strengthening,Aggressive behaviour - keep separated from other animals,Underdeveloped organs,Really enjoys peanut butter,Partial blindness,Enjoys interacting with guests,Strained leg muscle,Favourite toy is green barrel,Really enjoys sunshine,Favourite toy is blue ball
+618,Giraffe,3,Female,Auckland Zoo,Aggressive behaviour - keep separated from other animals,Underdeveloped organs,Favourite toy is blue ball
+619,Giraffe,16,Female,Auckland Zoo,Reduced appetite,Underdeveloped organs,Favourite toy is red ball
+620,Lion,17,Male,Orana Wildlife Park,Strained leg muscle
+621,Meerkat,12,Male,Orana Wildlife Park,Special diet for bone strengthening,Reduced appetite,Really enjoys sunshine,Favourite toy is red ball
+622,Zebra,21,Male,Auckland Zoo
+623,Chimpanzee,13,Female,Auckland Zoo
+624,Giant Panda,2,Male,Auckland Zoo,Strained leg muscle,Favourite toy is red ball
+625,Kiwi,7,Female,Orana Wildlife Park,Partial blindness,Favourite toy is blue ball,Really enjoys peanut butter
+626,Kiwi,14,Male,Wellington Zoo,Special diet for bone strengthening,Favourite toy is blue ball,Favourite toy is red ball
+627,Kiwi,16,Female,Wellington Zoo,Reduced appetite,Aggressive behaviour - keep separated from other animals,Partial blindness,Enjoys interacting with guests,Strained leg muscle,Previous broken limb,Favourite toy is green barrel,Really enjoys sunshine
+628,Meerkat,3,Male,Wellington Zoo,Favourite toy is green barrel,Special diet for bone strengthening,Favourite toy is red ball
+629,Kiwi,7,Female,Orana Wildlife Park,Enjoys interacting with guests,Really enjoys sunshine
+630,Gazelle,11,Female,Wellington Zoo,Partial blindness,Favourite toy is blue ball,Really enjoys peanut butter
+631,Llama,2,Male,Wellington Zoo
+632,Penguin,7,Male,Orana Wildlife Park,Favourite toy is blue ball
+633,Kiwi,22,Male,Orana Wildlife Park,Special diet for bone strengthening,Reduced appetite,Aggressive behaviour - keep separated from other animals,Strained leg muscle,Previous broken limb,Favourite toy is red ball
+634,Giraffe,1,Female,Orana Wildlife Park
+635,Kiwi,14,Male,Auckland Zoo,Strained leg muscle,Favourite toy is blue ball
+636,Elephant,33,Male,Auckland Zoo,Favourite toy is green barrel,Previous broken limb,Really enjoys sunshine,Really enjoys peanut butter
+637,Red Panda,13,Female,Wellington Zoo
+638,Penguin,3,Male,Wellington Zoo,Aggressive behaviour - keep separated from other animals,Underdeveloped organs,Strained leg muscle,Really enjoys peanut butter
+639,Penguin,14,Female,Wellington Zoo
+640,Kiwi,8,Male,Wellington Zoo
+641,Penguin,6,Female,Wellington Zoo,Aggressive behaviour - keep separated from other animals,Really enjoys sunshine,Really enjoys peanut butter,Underdeveloped organs
+642,Tuatara,33,Male,Wellington Zoo,Favourite toy is green barrel,Enjoys interacting with guests,Really enjoys peanut butter
+643,Lion,0,Female,Orana Wildlife Park,Special diet for bone strengthening,Really enjoys sunshine,Really enjoys peanut butter
+644,Kiwi,5,Male,Wellington Zoo,Enjoys interacting with guests,Aggressive behaviour - keep separated from other animals,Really enjoys sunshine,Really enjoys peanut butter,Strained leg muscle
+645,Kiwi,11,Male,Orana Wildlife Park,Favourite toy is green barrel,Partial blindness,Aggressive behaviour - keep separated from other animals,Really enjoys sunshine,Strained leg muscle
+646,Chimpanzee,45,Male,Auckland Zoo
+647,Cheetah,1,Male,Wellington Zoo
+648,Chimpanzee,33,Female,Auckland Zoo,Strained leg muscle
+649,Kiwi,24,Male,Wellington Zoo,Previous broken limb,Partial blindness
+650,Penguin,14,Female,Wellington Zoo,Aggressive behaviour - keep separated from other animals
+651,Penguin,15,Male,Wellington Zoo
+652,Red Panda,5,Female,Wellington Zoo,Aggressive behaviour - keep separated from other animals
+653,Chimpanzee,43,Female,Auckland Zoo,Partial blindness,Really enjoys peanut butter
+654,Lion,0,Male,Orana Wildlife Park
+655,Llama,5,Female,Wellington Zoo,Really enjoys peanut butter
+656,Chimpanzee,38,Female,Auckland Zoo,Favourite toy is green barrel,Favourite toy is red ball
+657,Kiwi,22,Female,Wellington Zoo
+658,Meerkat,11,Female,Auckland Zoo,Favourite toy is green barrel,Aggressive behaviour - keep separated from other animals
+659,Zebra,21,Female,Auckland Zoo,Reduced appetite,Really enjoys peanut butter,Partial blindness,Strained leg muscle,Previous broken limb,Favourite toy is green barrel,Favourite toy is blue ball
+660,Penguin,1,Female,Orana Wildlife Park,Really enjoys peanut butter
+661,Penguin,10,Male,Wellington Zoo,Previous broken limb
+662,Kiwi,18,Female,Wellington Zoo
+663,Llama,15,Male,Auckland Zoo,Favourite toy is blue ball
+664,Kiwi,17,Female,Wellington Zoo,Partial blindness,Reduced appetite
+665,Tiger,15,Female,Orana Wildlife Park,Special diet for bone strengthening
+666,Penguin,13,Male,Wellington Zoo,Partial blindness,Enjoys interacting with guests,Underdeveloped organs,Strained leg muscle
+667,Llama,24,Male,Wellington Zoo,Previous broken limb,Partial blindness,Reduced appetite,Strained leg muscle,Favourite toy is red ball
+668,Red Panda,12,Male,Auckland Zoo,Special diet for bone strengthening,Strained leg muscle
+669,Penguin,7,Female,Wellington Zoo,Special diet for bone strengthening,Favourite toy is blue ball,Enjoys interacting with guests,Really enjoys peanut butter,Favourite toy is red ball
+670,Tiger,16,Male,Orana Wildlife Park
+671,Chimpanzee,36,Female,Auckland Zoo,Strained leg muscle,Favourite toy is blue ball
+672,Penguin,9,Female,Wellington Zoo,Special diet for bone strengthening,Reduced appetite,Underdeveloped organs,Favourite toy is blue ball
+673,Zebra,13,Female,Auckland Zoo
+674,Red Panda,6,Male,Wellington Zoo,Really enjoys peanut butter
