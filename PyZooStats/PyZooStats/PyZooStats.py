@@ -119,7 +119,7 @@ def main():
             break
         else:
             print('Error: Invalid input.')
-#main()
-animals = read_data_file(get_filename())
-zoo = "Orana Wildlife Park"
-print(Zoo(animals,zoo))
+main()
+#animals = read_data_file(get_filename())
+#zoo = "Orana Wildlife Park"
+#print(Zoo(animals,zoo))
