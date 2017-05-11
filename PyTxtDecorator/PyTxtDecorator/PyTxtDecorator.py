@@ -24,7 +24,7 @@ def decorate_text(text):
 +-------------------------------------------------------------------------------+
     '''
     lines = text.split('\n')
-    striplines = [line.strip() for line in lines]
+    striplines = [line.rstrip() for line in lines]
     maxlen = max([len(line) for line in lines])
     #print(maxlen)
     headline = '+'+'-'*(maxlen-3)+'+'
