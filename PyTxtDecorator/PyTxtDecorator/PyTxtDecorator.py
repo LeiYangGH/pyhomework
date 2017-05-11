@@ -3,10 +3,10 @@
 
 def decorate_text(text):
     '''
-    ÓĞÒ»¶ÎÓ¢ÎÄÎÄ±¾£¨ÕâÑùÎÒÃÇ²»ÓÃ¿¼ÂÇÖĞÎÄÎÄ±¾µ¼ÖÂµÄ¶ÔÆëÎÊÌâ£©£¬¸ÃÎÄ±¾ÓĞ¶àĞĞ£¬Ã¿ĞĞÇ°ºó¿ÉÄÜ»áÓĞ¿Õ¸ñ£¬
-    Ã¿ĞĞÇ°ÃæµÄ¿Õ¸ñÒª±£Áô£¬¶øÃ¿ĞĞ×îºóµÄ¿Õ¸ñÓ¦¸ÃÈ¥³ı¡£ÇëÔÚÕâ¶ÎÓ¢ÎÄÎÄ±¾ÉÏÃæ¼ÓÉÏ×°ÊÎÀ¸¡£
-    ÓĞÒ»¶ÎÓ¢ÎÄÎÄ±¾£¨ÕâÑùÎÒÃÇ²»ÓÃ¿¼ÂÇÖĞÎÄÎÄ±¾µ¼ÖÂµÄ¶ÔÆëÎÊÌâ£©£¬¸ÃÎÄ±¾ÓĞ¶àĞĞ£¬Ã¿ĞĞÇ°ºó¿ÉÄÜ»áÓĞ¿Õ¸ñ£¬
-    Ã¿ĞĞÇ°ÃæµÄ¿Õ¸ñÒª±£Áô£¬¶øÃ¿ĞĞ×îºóµÄ¿Õ¸ñÓ¦¸ÃÈ¥³ı¡£ÇëÔÚÕâ¶ÎÓ¢ÎÄÎÄ±¾ÉÏÃæ¼ÓÉÏ×°ÊÎÀ¸£¬ÈçÏÂËùÊ¾
+    æœ‰ä¸€æ®µè‹±æ–‡æ–‡æœ¬ï¼ˆè¿™æ ·æˆ‘ä»¬ä¸ç”¨è€ƒè™‘ä¸­æ–‡æ–‡æœ¬å¯¼è‡´çš„å¯¹é½é—®é¢˜ï¼‰ï¼Œè¯¥æ–‡æœ¬æœ‰å¤šè¡Œï¼Œæ¯è¡Œå‰åå¯èƒ½ä¼šæœ‰ç©ºæ ¼ï¼Œ
+    æ¯è¡Œå‰é¢çš„ç©ºæ ¼è¦ä¿ç•™ï¼Œè€Œæ¯è¡Œæœ€åçš„ç©ºæ ¼åº”è¯¥å»é™¤ã€‚è¯·åœ¨è¿™æ®µè‹±æ–‡æ–‡æœ¬ä¸Šé¢åŠ ä¸Šè£…é¥°æ ã€‚
+    æœ‰ä¸€æ®µè‹±æ–‡æ–‡æœ¬ï¼ˆè¿™æ ·æˆ‘ä»¬ä¸ç”¨è€ƒè™‘ä¸­æ–‡æ–‡æœ¬å¯¼è‡´çš„å¯¹é½é—®é¢˜ï¼‰ï¼Œè¯¥æ–‡æœ¬æœ‰å¤šè¡Œï¼Œæ¯è¡Œå‰åå¯èƒ½ä¼šæœ‰ç©ºæ ¼ï¼Œ
+    æ¯è¡Œå‰é¢çš„ç©ºæ ¼è¦ä¿ç•™ï¼Œè€Œæ¯è¡Œæœ€åçš„ç©ºæ ¼åº”è¯¥å»é™¤ã€‚è¯·åœ¨è¿™æ®µè‹±æ–‡æ–‡æœ¬ä¸Šé¢åŠ ä¸Šè£…é¥°æ ï¼Œå¦‚ä¸‹æ‰€ç¤º
 +-------------------------------------------------------------------------------+
 |  The King and Queen of Hearts were seated on their throne when they arrived,  |
 |with a great crowd assembled about them--all sorts of little birds and beasts, |
@@ -23,12 +23,21 @@ def decorate_text(text):
 |                                                                               |
 +-------------------------------------------------------------------------------+
     '''
+    lines = text.split('\n')
+    striplines = [line.strip() for line in lines]
+    maxlen = max([len(line) for line in lines])
+    #print(maxlen)
+    headline = '+'+'-'*(maxlen-3)+'+'
+    print(headline)
+    for line in striplines:
+        print('|'+line+' '*(maxlen-3-len(line))+'|')
+    print(headline)
     pass
 
 
 if __name__ == '__main__':
     print('-'*40)
-    print('½«ÊäÈëµÄÎÄ±¾¼ÓÉÏ×°ÊÎÌõ') 
+    print('å°†è¾“å…¥çš„æ–‡æœ¬åŠ ä¸Šè£…é¥°æ¡') 
 
     text = r'''  The King and Queen of Hearts were seated on their throne when they arrived,
 with a great crowd assembled about them--all sorts of little birds and beasts,   
@@ -44,5 +53,5 @@ refreshments!'
 about her, to pass away the time.
     '''
     decorate_text(text)
-    print(format(text,"<20")) ;
+    #print(format(text,"<20"))
     
