@@ -1,8 +1,10 @@
+import math
 a1,a2,a3,b1,b2,b3,c1,c2,c3 = 2,3,4,5,6,4,7,8,9
 def read_input():
     a1,a2,a3,b1,b2,b3,c1,c2,c3 = input("please input a1 a2 a3 b1 b2 b3 c1 c2 c3:\n").split() 
 
-def calc_vector_magnitude(a1,a2,a3,b1,b2,b3):
+def vector_magnitude(g1,g2,g3):
+    return math.sqrt(g1 * g1 + g2 * g2 + g3 * g3)
 
 def cross_product(g1,g2,g3,h1,h2,h3):
     k1 = g2 * h3 - g3 * h2
