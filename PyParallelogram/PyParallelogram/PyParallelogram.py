@@ -4,8 +4,12 @@ def read_input():
 
 def calc_vector_magnitude(a1,a2,a3,b1,b2,b3):
 
-def calc_vector2_cross(a1,a2,a3,b1,b2,b3):
-    
+def cross_product(g1,g2,g3,h1,h2,h3):
+    k1 = g2 * h3 - g3 * h2
+    k2 = -(g1 * h3 - g3 * h1)
+    k3 = (g1 * h2 - g2 * h1)
+    return (k1,k2,k3)
+
 def dot_product(g1,g2,g3,h1,h2,h3):
     return g1 * h1 + g2 * h2 + g3 * h3
 
