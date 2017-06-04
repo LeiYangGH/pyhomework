@@ -19,10 +19,13 @@ def calc_vector_magnitude(a1,a2,a3):
     
 
 def area_parallelogram(g1,g2,g3,h1,h2,h3):
-    (k1,k2,k3) = cross_product(g1,g2,g3,h1,h2,h3)#?
+    k1,k2,k3 = cross_product(g1,g2,g3,h1,h2,h3)#?
     return vector_magnitude(k1,k2,k3)
 
-def calc_volumn(a1,a2,a3,b1,b2,b3):
+def volumn_parallelepiped(g1,g2,g3,h1,h2,h3,k1,k2,k3):
+    k1,k2,k3 = cross_product(h1,h2,h3,k1,k2,k3)#?
+    dot = dot_product(g1,g2,g3,k1,k2,k3)
+    return abs(dot)
 
 def print_output(a1,a2,a3,b1,b2,b3,c1,c2,c3,area,volumn):
 
