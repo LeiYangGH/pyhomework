@@ -16,8 +16,11 @@ def dot_product(g1,g2,g3,h1,h2,h3):
     return g1 * h1 + g2 * h2 + g3 * h3
 
 def calc_vector_magnitude(a1,a2,a3):
+    
 
-def calc_area(a1,a2,a3,b1,b2,b3):
+def area_parallelogram(g1,g2,g3,h1,h2,h3):
+    (k1,k2,k3) = cross_product(g1,g2,g3,h1,h2,h3)#?
+    return vector_magnitude(k1,k2,k3)
 
 def calc_volumn(a1,a2,a3,b1,b2,b3):
 
