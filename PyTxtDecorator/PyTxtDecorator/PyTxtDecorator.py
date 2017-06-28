@@ -22,6 +22,15 @@ def decorate_text(text):
 |                                                                               |
 +-------------------------------------------------------------------------------+
     '''
+    lines = text.split('\n')
+    striplines = [line.rstrip() for line in lines]
+    maxlen = max([len(line) for line in lines])
+    #print(maxlen)
+    headline = '+'+'-'*(maxlen-3)+'+'
+    print(headline)
+    for line in striplines:
+        print('|'+line+' '*(maxlen-3-len(line))+'|')
+    print(headline)
     pass
 if __name__ == '__main__':
     print('-'*40)
@@ -40,4 +49,4 @@ refreshments!'
 about her, to pass away the time.
     '''
     decorate_text(text)
-    print(format(text,"<20"))
+    #print(format(text,"<20"))
