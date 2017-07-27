@@ -22,11 +22,12 @@ driver.find_element_by_xpath("//input[@type='submit']").click()
 
 trs = driver.find_elements(By.TAG_NAME, "tr") 
 
-for tr in trs:
-    tds = tr.find_elements(By.TAG_NAME, "td")
-    print([el.text for el in  tds])
-    print("")
+#for tr in trs:
+#    tds = tr.find_elements(By.TAG_NAME, "td")
+#    print([el.text for el in  tds])
+#    print("")
 
+print(trs[5].find_elements(By.TAG_NAME, "td")[2].text)
 
 #driver.quit()
 
