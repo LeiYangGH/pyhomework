@@ -4,18 +4,20 @@ from selenium import webdriver
 import time
 from selenium.webdriver.common.by import By
 
-driver = webdriver.Chrome(r'C:\Installs\chromedriver.exe')
+#driver = webdriver.Chrome(r'C:\Installs\chromedriver.exe')
+driver = webdriver.Firefox()
 print("Chrome")
 
 driver.get(r'http://photo.sina.com.cn/')
-driver.maximize_window()
+#driver.maximize_window()
+dirver.set_window_size("1024", "768")
 driver.execute_script("window.scrollTo(0, document.body.scrollHeight/2);")
 div = driver.find_element_by_class_name("column-subshow-tab")
 #print(type(div))
 #print(type(div.text))
 print(div.text)
 #print(div.get_attribute('innerHTML'))
-#div.location_once_scrolled_into_view
+div.location_once_scrolled_into_view
 print("scrolled")
 #subs = div.find_elements_by_xpath(".//*")
 subs = div.find_elements_by_xpath(".//ul/*")
