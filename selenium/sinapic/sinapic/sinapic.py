@@ -3,6 +3,7 @@
 from selenium import webdriver
 import time
 from selenium.webdriver.common.by import By
+from pyquery import PyQuery as pq
 #driver = None
 def sina_pic_tabs(browser='Chrome'):
     if browser == 'Chrome':
@@ -22,15 +23,22 @@ def sina_pic_tabs(browser='Chrome'):
 
     driver.execute_script("window.scrollTo(0, document.body.scrollHeight/2);")
     div = driver.find_element_by_class_name("column-subshow-tab")
-    print(div.text)
+    #print(div.text)
     div.location_once_scrolled_into_view
     print("scrolled")
     subs = div.find_elements_by_xpath(".//ul/*")
+    dic = {}
     for sb in subs:
         if len(sb.text) >= 2:
             sb.click()
             time.sleep(1)
-    input("exit?")
+
+            details = driver.find_elements_by_class_name("pic_detail")
+            titles = [d.text for d in details if len(d.text)>1]
+            dic[sb.text] = titles
+
+    #input("exit?")
+    print(dic)
     driver.quit()
  
 sina_pic_tabs()
