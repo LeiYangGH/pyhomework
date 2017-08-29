@@ -1,10 +1,7 @@
 # coding = utf-8
-
 from selenium import webdriver
 import time
 from selenium.webdriver.common.by import By
-from pyquery import PyQuery as pq
-#driver = None
 def sina_pic_tabs(browser='Chrome'):
     if browser == 'Chrome':
         driver = webdriver.Chrome(r'C:\Installs\chromedriver.exe')
@@ -34,7 +31,7 @@ def sina_pic_tabs(browser='Chrome'):
             time.sleep(1)
 
             details = driver.find_elements_by_class_name("pic_detail")
-            titles = [d.text for d in details if len(d.text)>1]
+            titles = [d.text for d in details if (len(d.text) > 1 and r'（' not in d.text)]
             dic[sb.text] = titles
 
     #input("exit?")
