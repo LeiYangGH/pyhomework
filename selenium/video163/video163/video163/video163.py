@@ -37,12 +37,11 @@ def sina_pic_tabs(browser='Chrome'):
 
     allpages_descriptions = []
     
-    #for i in range(1,3):
     while not no_more_page(driver):
-        allpages_descriptions = allpages_descriptions + get_current_page(driver)
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         time.sleep(0.5)
-        
+
+    allpages_descriptions = get_current_page(driver)
     uniqueset = set(allpages_descriptions)
     print(uniqueset)
     driver.quit()
